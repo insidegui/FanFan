@@ -24,6 +24,6 @@ Because it's more funny that way 😆 Feel free to remove all the `#if arch(x86_
 
 ### How did you capture the Fan noise?
 
-I used my 2019 MacBook Pro and a fan control app to crank the RMP up to 4800, then recorded it using a Blue Yeti microphone.
+I used my 2019 MacBook Pro and a fan control app to crank the RPM up to 4800, then recorded it using a Blue Yeti microphone.
 
 ![recording setup](./img/recording.jpg)
